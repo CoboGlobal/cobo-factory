@@ -1,0 +1,8 @@
+*.json
+
+*.txt
+
+# Dotenv file
+.env
+
+__pycache__
