@@ -20,6 +20,7 @@ Mainnet:
 - [Mantle](https://explorer.mantle.xyz/address/0xC0B000003148E9c3E0D314f3dB327Ef03ADF8Ba7?tab=contract)
 - [Gnosis](https://gnosisscan.io/address/0xC0B000003148E9c3E0D314f3dB327Ef03ADF8Ba7#code)
 - [Manta](https://manta.socialscan.io/address/0xc0b000003148e9c3e0d314f3db327ef03adf8ba7#contract)
+- [Scroll](https://scrollscan.com/address/0xC0B000003148E9c3E0D314f3dB327Ef03ADF8Ba7#code)
 
 Testnet:
 - [Ethereum Sepolia Testnet](https://sepolia.etherscan.io/address/0xC0B000003148E9c3E0D314f3dB327Ef03ADF8Ba7#code)

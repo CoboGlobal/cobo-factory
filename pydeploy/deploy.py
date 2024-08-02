@@ -35,8 +35,8 @@ def main():
 
     print("Chain id:", w3.eth.chain_id)
 
-    contract = w3.toChecksumAddress(d["contract"])
-    deployer = w3.toChecksumAddress(d["deployer"])
+    contract = w3.to_checksum_address(d["contract"])
+    deployer = w3.to_checksum_address(d["deployer"])
     unsigned_tx = d["unsignedTx"]
     txs = d["signedTxs"]
 
